@@ -1,0 +1,17 @@
+.main{
+    border: grey solid 1px;
+    padding-bottom: 15px;
+}
+    
+
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
+
+.todos{
+    border: black solid 1px;
+    border-radius: 10px;
+    padding: 6px 40px 10px 40px;
+}
+
